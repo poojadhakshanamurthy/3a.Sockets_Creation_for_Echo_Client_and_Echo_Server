@@ -46,8 +46,8 @@ s.close()
 ```
 
 ## OUPUT
-![Output](server.py.3a.png)
-![Output](client.py.3a.png)
+![Output](server.py3a.png)
+![Output](client.py3a.png)
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
